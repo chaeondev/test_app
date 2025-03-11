@@ -79,5 +79,6 @@ Sections
 Pickers and Segmented Control
 Navigation View
 
-
-[⬆️ Back to top](#WeSplit)
+<div align="right">
+  [⬆️ Back to top](#WeSplit)
+</div>
